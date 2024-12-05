@@ -16,3 +16,42 @@ Die Besprechung mit Thanam war ein sehr wertvoller Teil des Tages. Er hat sich Z
 
 ## Fazit
 Insgesamt war der erste Modultag eine positive Erfahrung. Die Inhalte waren klar strukturiert und gut vermittelt, und die Teamarbeit hat reibungslos funktioniert.
+
+
+# Woche 2 - Reflexion
+## T2 Aufgabe 1-6: "Three Ways Model"
+Ich habe mir die 12 Fragen mit Maco aufgeteilt. Ich musste 1-6 beantworten. Und das waren die wichtigsten Punkte wo das Model erklärt.
+- **Flow:** Arbeitsabläufe sichtbar machen und Hindernisse erkennen.
+- **Feedback:** Schnelles Feedback nutzen, um direkt zu verbessern.
+- **Continuous Learning:** Stetig lernen und neue Ansätze ausprobieren.
+
+Das Modell bietet eine gute Grundlage für effektive Arbeit.
+
+---
+
+## Review und Retro über den Modultag
+Der Modultag war insgesamt produktiv:
+- **Gut:** Gute Teamarbeit und klare Diskussionen.
+- **Herausforderungen:** Uns war anfangs nicht klar ob wir T1 und T2 aufteilen sollen und die Aufgaben dann nochmal untereinader aufteilen sollen. Wir haben es schlussendlich gemacht, weil es Lean ist
+- **Verbesserung:** Aufgaben die Theorie beinhalten nicht mehr aufteilen damit jeder genug Knowhow mitnimmt.
+
+---
+
+## Gespräch mit Thanham
+Im Gespräch mit Thanham wurde der aktuelle Stand besprochen:
+- **Stand:** Fortschritte sind gut, einige Punkte müssen noch verbessert werden. Vorallem das mit der Aufgaben aufteilung
+- **Positiv:** Offene Kommunikation und klare Lösungsansätze.
+- **Nächste Schritte:** Massnahmen für offene Punkte wurden definiert.
+
+---
+
+## Vorbereitung auf Modul Tag 3
+Die Gruppenarbeit war effektiv:
+- **Storys erstellt:** Wichtige Themen klar abgebildet.
+- **Teamarbeit:** Gute Aufgabenverteilung und klare Kommunikation.
+
+---
+
+## Fazit
+Der Modultag und die Aufgaben waren hilfreich, um Wissen zu vertiefen und die Zusammenarbeit zu stärken. Besonders die Teamarbeit und die Reflexion der Prozesse waren wertvoll. Wir haben auch einen Austausch gemacht das jeder noch so viel Knowhow wie möglich mitnimmt.
+
