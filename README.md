@@ -55,3 +55,28 @@ Die Gruppenarbeit war effektiv:
 ## Fazit
 Der Modultag und die Aufgaben waren hilfreich, um Wissen zu vertiefen und die Zusammenarbeit zu stärken. Besonders die Teamarbeit und die Reflexion der Prozesse waren wertvoll. Wir haben auch einen Austausch gemacht das jeder noch so viel Knowhow wie möglich mitnimmt.
 
+# Woche 3 - Reflexion
+
+## Recap im Plenum
+Zu Beginn der Lektion fand ein gemeinsames Recap im Plenum statt, bei dem die Themen der letzten Woche besprochen wurden. Der Fokus lag auf den Aufträgen **T1** und **T2**, welche nochmals detailliert reflektiert und diskutiert wurden.
+
+## Bearbeitung der Aufträge T3 und T4
+Im Team haben wir uns anschließend den Aufträgen **T3** und **T4** gewidmet. Diese behandelten die theoretischen Prozesse von **SDLC (Software Development Life Cycle)** und **DevOps**. Dabei mussten wir verschiedene Theoriefragen beantworten.
+
+## Meeting mit Thanam
+Im Rahmen dieses Treffens wurde Feedback zu unserer Arbeit gegeben:
+- **Positiv**: Was gut gelaufen ist. War das Zeiterfassung
+- **Verbesserungspotenzial**: Bereiche, die noch optimiert werden können. War das wir die Aufgaben zusammen besprechen sollten nach dem wir sie erledigt haben damit alle auf dem gleichen Stand sind.
+- **Nächste Schritte**: Planung der weiteren Aufgaben und Ziele.
+
+
+## Vorbereitung auf die nächste Woche
+Zum Abschluss der Lektion haben wir uns auf die kommende Woche vorbereitet:
+- Erfassen und Besprechen der **User Storys**.
+- Planung der priorisierten Aufträge, die wir in der nächsten Woche bearbeiten wollen.
+
+
+## Fazit
+Die Woche war geprägt von produktiver Teamarbeit, wertvollem Feedback und einer klaren Zielsetzung für die nächsten Schritte. Besonders die Bearbeitung der theoretischen Inhalte und das Feedback im Meeting haben uns geholfen, unsere Prozesse weiter zu verbessern.
+
+
