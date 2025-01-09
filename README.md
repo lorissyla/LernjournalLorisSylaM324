@@ -79,4 +79,25 @@ Zum Abschluss der Lektion haben wir uns auf die kommende Woche vorbereitet:
 ## Fazit
 Die Woche war geprägt von produktiver Teamarbeit, wertvollem Feedback und einer klaren Zielsetzung für die nächsten Schritte. Besonders die Bearbeitung der theoretischen Inhalte und das Feedback im Meeting haben uns geholfen, unsere Prozesse weiter zu verbessern.
 
+# Woche 4 - Reflexion
+
+### Meeting mit Thanam
+In einem Meeting mit Thanam wurden die erledigten Aufträge **T3** und **T4** besprochen. Dabei haben wir unsere Herangehensweise reflektiert und Verbesserungspotenziale für zukünftige Aufgaben identifiziert.
+
+### Zusammenarbeit im Team: Aufträge D1 und D2
+Zusammen mit meinen Kollegen habe ich die Aufträge **D1** und **D2** bearbeitet:
+- **D1:** Die Dokumentation wurde aktualisiert und auf den neuesten Stand gebracht, um die Nachvollziehbarkeit sicherzustellen.
+- **D2:** Wir haben verschiedene Branching-Strategien analysiert und diskutiert. Nach gemeinsamer Besprechung der Vor- und Nachteile entschieden wir uns für die **Feature-Branching-Strategie**, da diese zu unserem Workflow passt und wir bereits positive Erfahrungen(nicht jeder) damit gemacht haben.
+
+### Planung für die nächste Woche
+Den restlichen Modultag haben wir genutzt, um die Aufgaben für die kommende Woche zu planen. In unserer Gruppe haben wir eine klare Aufgabenverteilung für die Aufträge **P2** und **P1** vorgenommen, um effizient arbeiten zu können. 
+
+---
+
+## Fazit
+Diese Woche war geprägt von guter Teamarbeit und einer klaren Planung für die nächste Woche. Der Fokus lag auf der kontinuierlichen Verbesserung unserer Prozesse und der Zusammenarbeit im Team.
+
+# Woche 5 - Reflexion
+War ich leider Krank.
+
 
