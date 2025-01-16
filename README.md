@@ -100,4 +100,38 @@ Diese Woche war geprägt von guter Teamarbeit und einer klaren Planung für die 
 # Woche 5 - Reflexion
 War ich leider Krank.
 
+# Woche 6 - Reflexion
+
+### 1. Meeting mit Thanam
+- **Thema:** Optimierung der Aufgabenbearbeitung.
+- **Erkenntnis:** Es wurde beschlossen, unsere Storys in kleinere, besser handhabbare Teile zu fragmentieren. Dies soll die Bearbeitung effizienter machen und die Übersichtlichkeit erhöhen.
+- **Persönliche Reflexion:** Das Konzept der Fragmentierung hat mir gezeigt, wie wichtig es ist, große Aufgaben in kleinere, umsetzbare Schritte zu unterteilen, um den Fokus zu behalten und produktiver zu arbeiten.
+
+---
+
+### 2. Entwicklung einer Backend-Anwendung für das Mitarbeitermanagement
+
+#### **Herausforderung:**
+- Ich musste mich in JavaScript einarbeiten, da ich diese Sprache bisher noch nicht verwendet habe. Dies war eine neue und anspruchsvolle Erfahrung für mich.
+
+#### **Ergebnisse:**
+Ich habe ein grundlegendes Backend-System entwickelt, das folgende Komponenten umfasst:
+
+1. **Datenbankmodellierung und -integration**
+   - Ein **Mongoose-Schema** (`employee.js`) wurde erstellt, um Mitarbeiterdaten zu speichern. Die Felder umfassen Vorname, Nachname, Eintrittsdatum, Kompetenzstufe und eine eindeutige Mitarbeiter-ID.
+   - Die Verbindung zur **MongoDB-Datenbank** wurde in `server.js` implementiert, einschließlich einer Fehlerbehandlung für Verbindungsprobleme.
+
+2. **API-Logik**
+   - Ein Controller (`employeeController.js`) wurde entwickelt, der einen Endpunkt bereitstellt, um alle Mitarbeiterdaten aus der Datenbank abzurufen.
+   - Die API umfasst auch eine Fehlerbehandlung, um Probleme wie leere Ergebnisse oder technische Fehler abzufangen.
+
+3. **Routing und Integration**
+   - API-Routen wurden mit **Express.js** definiert (`employeeRoutes.js`). Der `/employees`-Endpunkt ruft die Controller-Logik auf und liefert die Daten an den Client.
+   - Die Routen wurden in der Hauptanwendung (`app.js`) eingebunden und unter dem Präfix `/api` verfügbar gemacht.
+
+4. **Server-Bereitstellung**
+   - Der Server wurde in `server.js` aufgesetzt und läuft auf **Port 3000**. Beim Start wird die Verbindung zur MongoDB geprüft. Bei Erfolg wird der Server gestartet und steht bereit für Anfragen. Jedoch geht das noch nicht, weil ich mich noch mit Justin zusammensetzten muss um zu besprechen wie wir das mit der Datenbank verbinden.
+
+---
+
 
