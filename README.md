@@ -133,5 +133,61 @@ Ich habe ein grundlegendes Backend-System entwickelt, das folgende Komponenten u
    - Der Server wurde in `server.js` aufgesetzt und läuft auf **Port 3000**. Beim Start wird die Verbindung zur MongoDB geprüft. Bei Erfolg wird der Server gestartet und steht bereit für Anfragen. Jedoch geht das noch nicht, weil ich mich noch mit Justin zusammensetzten muss um zu besprechen wie wir das mit der Datenbank verbinden.
 
 ---
+# Woche 7 - Reflexion
+
+## Briefing
+- Task-Konsolidierung: Statt jedes Abnahmekriterium als Incident zu behandeln, wurden diese zu einem Thema zusammengefasst.
+- Visualisierung auf dem Kanban Board: Aufgaben wurden sichtbar gemacht, um Transparenz über den aktuellen Arbeitsstand zu gewährleisten.
+- Effizienzsteigerung: Das Team arbeitete fokussiert an den Stories, wodurch keine vertieften Meetings (Planung) erforderlich waren.
+
+---
+
+## JavaScript API: Mitarbeiter auslesen
+
+In dieser Woche wurde eine API entwickelt, um Mitarbeiterdaten aus einer MongoDB-Datenbank abzurufen.
+
+### Umsetzung:
+- **Express-Server aufgesetzt**: Eine Node.js-Anwendung mit Express erstellt, die als API-Server fungiert.
+- **MongoDB-Anbindung**: Verbindung zur Datenbank mittels `mongoose` hergestellt. Die Verbindung wird mit einem Timeout von 5 Sekunden sichergestellt.
+- **Mitarbeiter-Schema definiert**: Ein Schema für die MongoDB-Kollektion `mitarbeiter` erstellt, das Vorname, Nachname, Beitrittsdatum, Skilllevel und eine eindeutige ID umfasst.
+- **Datenabruf-Route implementiert**: Eine API-Endpunkt (`/mitarbeiter`) eingerichtet, um alle Mitarbeiter aus der Datenbank abzurufen. Falls keine Mitarbeiter gefunden werden, gibt die API eine entsprechende Meldung zurück.
+- **Fehlermanagement**: Fehler bei der Datenbankverbindung oder beim Datenabruf werden abgefangen und als JSON-Fehlermeldung zurückgegeben.
+- **Server gestartet**: Die Anwendung lauscht auf einem konfigurierbaren Port (`3000` standardmäßig) und gibt eine Bestätigung aus, wenn sie läuft.
+
+---
+
+## Fazit
+- Durch die Task-Konsolidierung konnte die Arbeitslast effizienter organisiert werden.
+- Das Kanban Board hat die Transparenz im Team verbessert.
+- Die entwickelte API ermöglicht das einfache Abrufen von Mitarbeiterdaten aus der MongoDB-Datenbank.
+- Weniger Meetings führten zu einer effizienteren Nutzung der Arbeitszeit.
+
+---
+
+# Woche 8 - Reflexion
+
+## Stand der Entwicklung
+
+Während des Briefings wurde festgestellt, dass alle Teammitglieder mit der Implementierung ihres Codes beschäftigt waren. Cedric konzentrierte sich auf die Weiterentwicklung der Pipeline, während die restlichen Teammitglieder an ihren Codierungsaufgaben arbeiteten. Ein wesentlicher Fortschritt wurde beim Integrationstest erzielt. Zwar funktionierte der Test bei Loris noch nicht, jedoch wurde entschieden, dass dieser Aspekt weggelassen werden kann, da die Tests bei Marco und Justin erfolgreich waren.
+
+Ein bedeutender Punkt, der noch offen ist, betrifft **Continuous Deployment (CD)**. Dies ist ein essenzieller Bestandteil der finalen Umsetzung, wobei die Zielumgebung auf **AWS** festgelegt wurde. Hier gibt es noch offene Fragen und Entwicklungsbedarf. Zudem wurde festgestellt, dass die Dokumentation zu **D3** fehlt. Dies könnte in zukünftigen Wochen zu Problemen führen, wenn darauf basierende Arbeiten umgesetzt werden müssen.
+
+## Erfahrungen mit den Unit-Tests
+
+Ich persönlich habe mich intensiv mit der Erstellung von **Unit-Tests** für meinen Code befasst. Leider haben diese nicht funktioniert, was zu erheblichem Zeitverlust geführt hat. Während des Briefings wurde beschlossen, dass ich die Unit-Tests nicht weiter umsetzen muss. Diese Entscheidung hätte früher getroffen werden können, um die aufgewendete Zeit effizienter für andere Aufgaben zu nutzen.
+
+Diese Erfahrung zeigt, wie wichtig eine klare und frühzeitige Abstimmung im Team ist. Hätten wir bereits früher über die Notwendigkeit der **Unit-Tests** diskutiert, hätte ich meine Zeit besser in andere Projektbereiche investieren können. Dies unterstreicht die Bedeutung von **guter Kommunikation und abgestimmter Planung** innerhalb eines Entwicklerteams.
+
+## Fazit und Learnings
+
+Die vergangene Woche hat erneut gezeigt, dass der Entwicklungsprozess sowohl strukturiert als auch flexibel gestaltet sein muss. Besonders folgende Punkte nehme ich als Learnings aus dieser Woche mit:
+
+- **Frühe Klärung von Anforderungen**: Um Missverständnisse zu vermeiden, sollten Anforderungen an bestimmte Aufgaben (z. B. Unit-Tests) frühzeitig klar definiert und abgestimmt werden.
+- **Effiziente Zeiteinteilung**: Es ist wichtig, den Aufwand für bestimmte Aufgaben kritisch zu hinterfragen und gegebenenfalls Prioritäten zu setzen, um unnötigen Zeitverlust zu vermeiden.
+- **Dokumentation nicht vernachlässigen**: Die fehlende **D3-Dokumentation** zeigt, dass eine kontinuierliche und vollständige Dokumentation essenziell ist, um reibungslose Arbeitsabläufe sicherzustellen.
+- **Weiterentwicklung der Pipeline und CD**: Die noch offenen Punkte im Bereich **CD** und die Zielumgebung **AWS** müssen priorisiert und weiterverfolgt werden.
+
+Insgesamt war Woche 8 lehrreich und produktiv, trotz kleinerer Hindernisse. Mit einer besseren Abstimmung und Planung kann der Workflow in den kommenden Wochen weiter optimiert werden.
+
 
 
