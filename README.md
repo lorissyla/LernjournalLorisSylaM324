@@ -61,7 +61,7 @@ Der Modultag und die Aufgaben waren hilfreich, um Wissen zu vertiefen und die Zu
 Zu Beginn der Lektion fand ein gemeinsames Recap im Plenum statt, bei dem die Themen der letzten Woche besprochen wurden. Der Fokus lag auf den Aufträgen **T1** und **T2**, welche nochmals detailliert reflektiert und diskutiert wurden.
 
 ## Bearbeitung der Aufträge T3 und T4
-Im Team haben wir uns anschließend den Aufträgen **T3** und **T4** gewidmet. Diese behandelten die theoretischen Prozesse von **SDLC (Software Development Life Cycle)** und **DevOps**. Dabei mussten wir verschiedene Theoriefragen beantworten.
+Im Team haben wir uns anschliessend den Aufträgen **T3** und **T4** gewidmet. Diese behandelten die theoretischen Prozesse von **SDLC (Software Development Life Cycle)** und **DevOps**. Dabei mussten wir verschiedene Theoriefragen beantworten.
 
 ## Meeting mit Thanam
 Im Rahmen dieses Treffens wurde Feedback zu unserer Arbeit gegeben:
@@ -105,7 +105,7 @@ War ich leider Krank.
 ### 1. Meeting mit Thanam
 - **Thema:** Optimierung der Aufgabenbearbeitung.
 - **Erkenntnis:** Es wurde beschlossen, unsere Storys in kleinere, besser handhabbare Teile zu fragmentieren. Dies soll die Bearbeitung effizienter machen und die Übersichtlichkeit erhöhen.
-- **Persönliche Reflexion:** Das Konzept der Fragmentierung hat mir gezeigt, wie wichtig es ist, große Aufgaben in kleinere, umsetzbare Schritte zu unterteilen, um den Fokus zu behalten und produktiver zu arbeiten.
+- **Persönliche Reflexion:** Das Konzept der Fragmentierung hat mir gezeigt, wie wichtig es ist, grosse Aufgaben in kleinere, umsetzbare Schritte zu unterteilen, um den Fokus zu behalten und produktiver zu arbeiten.
 
 ---
 
@@ -119,7 +119,7 @@ Ich habe ein grundlegendes Backend-System entwickelt, das folgende Komponenten u
 
 1. **Datenbankmodellierung und -integration**
    - Ein **Mongoose-Schema** (`employee.js`) wurde erstellt, um Mitarbeiterdaten zu speichern. Die Felder umfassen Vorname, Nachname, Eintrittsdatum, Kompetenzstufe und eine eindeutige Mitarbeiter-ID.
-   - Die Verbindung zur **MongoDB-Datenbank** wurde in `server.js` implementiert, einschließlich einer Fehlerbehandlung für Verbindungsprobleme.
+   - Die Verbindung zur **MongoDB-Datenbank** wurde in `server.js` implementiert, einschliesslich einer Fehlerbehandlung für Verbindungsprobleme.
 
 2. **API-Logik**
    - Ein Controller (`employeeController.js`) wurde entwickelt, der einen Endpunkt bereitstellt, um alle Mitarbeiterdaten aus der Datenbank abzurufen.
@@ -152,7 +152,7 @@ In dieser Woche wurde eine API entwickelt, um Mitarbeiterdaten aus einer MongoDB
 - **Mitarbeiter-Schema definiert**: Ein Schema für die MongoDB-Kollektion `mitarbeiter` erstellt, das Vorname, Nachname, Beitrittsdatum, Skilllevel und eine eindeutige ID umfasst.
 - **Datenabruf-Route implementiert**: Eine API-Endpunkt (`/mitarbeiter`) eingerichtet, um alle Mitarbeiter aus der Datenbank abzurufen. Falls keine Mitarbeiter gefunden werden, gibt die API eine entsprechende Meldung zurück.
 - **Fehlermanagement**: Fehler bei der Datenbankverbindung oder beim Datenabruf werden abgefangen und als JSON-Fehlermeldung zurückgegeben.
-- **Server gestartet**: Die Anwendung lauscht auf einem konfigurierbaren Port (`3000` standardmäßig) und gibt eine Bestätigung aus, wenn sie läuft.
+- **Server gestartet**: Die Anwendung lauscht auf einem konfigurierbaren Port (`3000` standardmässig) und gibt eine Bestätigung aus, wenn sie läuft.
 
 ---
 
@@ -188,6 +188,25 @@ Die vergangene Woche hat erneut gezeigt, dass der Entwicklungsprozess sowohl str
 - **Weiterentwicklung der Pipeline und CD**: Die noch offenen Punkte im Bereich **CD** und die Zielumgebung **AWS** müssen priorisiert und weiterverfolgt werden.
 
 Insgesamt war Woche 8 lehrreich und produktiv, trotz kleinerer Hindernisse. Mit einer besseren Abstimmung und Planung kann der Workflow in den kommenden Wochen weiter optimiert werden.
+
+# Woche 9 - Reflexion
+
+## Überblick
+In der neunten Woche standen zwei zentrale Punkte im Fokus: das letzte Briefing mit Thanam sowie die Beschreibung des Ablaufs von Meetings in D3.
+
+## Letztes Briefing mit Thanam
+Beim finalen Briefing mit Thanam wurde nochmals allgemein besprochen, wie die Abläufe sind und welche letzten Arbeiten noch ausstehen. Dies diente dazu, offene Fragen zu klären und sicherzustellen, dass alle Beteiligten einen klaren Überblick über die noch ausstehenden Aufgaben haben.
+
+## D3 – Beschreibung des Meeting-Ablaufs
+Im Rahmen des D3-Auftrags musste ich den Ablauf von Meetings beschreiben. Dies umfasste:
+- Festlegung der Regeln für Meetings
+- Strukturierung des typischen Ablaufs
+- Sicherstellung, dass alle Teilnehmenden die Erwartungen und Vorgaben verstehen
+
+Diese Aufgabe war wichtig, um eine klare und einheitliche Grundlage für zukünftige Meetings zu schaffen.
+
+## Fazit
+Die Woche 9 war geprägt von finalen Abstimmungen und Vorbereitungen. Durch das letzte Briefing mit Thanam konnte ein gemeinsames Verständnis für die letzten Aufgaben geschaffen werden. Die Beschreibung des Meeting-Ablaufs in D3 trug dazu bei, eine strukturierte und nachvollziehbare Grundlage für Meetings zu definieren.
 
 
 
